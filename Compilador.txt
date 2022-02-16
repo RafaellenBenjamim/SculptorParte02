@@ -1,0 +1,1 @@
+g++ Main.cpp sculptor.h sculptor.cpp CutBox.h CutBox.cpp CutEllipsoid.h CutEllipsoid.cpp CutSphere.h CutSphere.cpp CutVoxel.h CutVoxel.cpp FiguraGeometrica.h FiguraGeometrica.cpp Interpretador.h Interpretador.cpp PutBox.h PutBox.cpp PutEllipsoid.h PutEllipsoid.cpp PutSphere.h PutSphere.cpp PutVoxel.h PutVoxel.cpp -o alien
